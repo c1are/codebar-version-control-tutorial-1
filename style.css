@@ -3,6 +3,19 @@ body {
       margin: 0;
       font-family: Helvetica, Arial, sans-serif;
   }
+ header {
+ 	background-color: #1b644e;
+ 	text-align: center;
+ 	height: 100px;
+ 	margin-top: 0;
+ }
+
+ header h1 {
+ 	color: white;
+ 	margin: 0;
+ 	padding: 30px;
+
+ }
 
 .lesson-container {
 	height: 200px;
