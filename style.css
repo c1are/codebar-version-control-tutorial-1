@@ -67,8 +67,7 @@ body {
  	display: inline-block;
  	width: 85%;
  	margin: 0px auto; 
- 	border: 1px dotted black;	
- }
+}
 
 article {
 	margin: 40px 20px 10px 20px;
@@ -78,6 +77,8 @@ article {
 	padding: 10px;
 	display: inline-block;
 	border-bottom: 3px solid #BDB8A4;
+	text-align: left;
+	vertical-align: top;
 }
 article p {
 	display: block;
