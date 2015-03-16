@@ -14,7 +14,7 @@ body {
  	margin-bottom: 0px; 
  	padding: 20px 150px 10px;	
  	border-bottom: 3px solid #fd7633;
- }
+}
  header img {
  	height: 150px;
  	float: left;
@@ -83,8 +83,6 @@ article {
 article p {
 	display: block;
 }
-
-
 article img {
  	height: 100px; 
  	width: 100px;	 	
@@ -104,8 +102,15 @@ article img {
 #article-footer {
 	text-align: right;
 }
+#article-footer a{
+	text-decoration: none;
+	color: #BDB8A4;
+}
+#article-footer a:hover{
+	color: #fd7633; 
+}
  footer {
- 	background-color: #676A7B;
+ 	background-color: #BDB8A4;
  	height: 50px;
  	text-align: center;
  	color: white;
